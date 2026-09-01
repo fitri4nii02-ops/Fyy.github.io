@@ -7,7 +7,17 @@
 </head>
 <body>
     <h1>Selamat Datang di Website Pribadi Saya</h1>
-    <a href="index.html">Nama</a> | <a href="about.html">Tentang Saya</a> | <a href="contact.html">Kontak Saya</a>
-    <h3>Nama saya adalah Fitriani</h3>
+
+    <a href="#" onclick="tampilNama()">Nama</a> |
+    <a href="about.html">Tentang Saya</a> |
+    <a href="contact.html">Kontak Saya</a>
+
+    <h3 id="nama" style="display:none;">Nama saya adalah Fitriani</h3>
+
+    <script>
+        function tampilNama() {
+            document.getElementById("nama").style.display = "block";
+        }
+    </script>
 </body>
 </html>
