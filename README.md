@@ -1,22 +1,6 @@
-</> Markdown
+</> Markdown 
+# Belajar GIT Tekom D 2025
 
-
-
-\#Tugas pemrograman Web
-
-
-
-Nama: Fitriani
-
-NIM: 250210500005
-
-
-
-\## File
-
-* index.html
-* about.html
-* contact.html
-
+Ini adalah dokumentasi project belajar Git di kelas TEKOM D 2025 yang dilaksanakan pada tanggal 31 Agustus 2026
 
 
